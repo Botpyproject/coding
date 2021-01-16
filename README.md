@@ -1,6 +1,6 @@
-# coding
+coding
 coding with programming languages
-# code for number of islands
+code for number of islands
 
 class Solution(object):
     def numIslands(self, grid):
